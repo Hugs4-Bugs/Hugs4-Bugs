@@ -47,3 +47,75 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1 align="center">Hi, I'm James Nyaga</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+  <strong>A Passionate Computer Scientist & Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Code.+Create.+Innovate.;Solving+Real+World+Problems;With+Clean+Elegant+Code" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,php,sql" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+### 🚀 Projects & Contributions
+
+- **AirBnB Clone** – A full clone of the AirBnB platform using Python and Flask.
+- **Portfolio Website** – A responsive personal website built with HTML, CSS, JavaScript.
+- **Custom CMS** – A content management system built with PHP and SQL.
+
+Check them out in my [repositories](https://github.com/yourusername?tab=repositories)!
+
+---
+
+### 📸 Gallery of Code & Creativity
+
+<p align="center">
+  <img src="https://your-image-link.com/project1.jpg" width="250" alt="Project 1"/>
+  <img src="https://your-image-link.com/project2.jpg" width="250" alt="Project 2"/>
+  <img src="https://your-image-link.com/project3.jpg" width="250" alt="Project 3"/>
+</p>
+
+---
+
+### 🧩 Fun Facts
+
+- I write code the way artists paint masterpieces.
+- I believe the best code is readable, reusable, and responsible.
+- I'm currently working on AI-assisted developer tools.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" width="450"/>
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+</p>
+
+---
+
+<p align="center"><i>“The function of good software is to make the complex appear simple.” – Grady Booch</i></p>
+
