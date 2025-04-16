@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **custom AI-powered developer tool**  
-- 🌱 I’m learning **DevOps and Machine Learning**  
-- 💬 Ask me about anything in **Python, JavaScript, PHP, Java, SQL, C/C++**  
-- 📫 How to reach me: **your.email@example.com**  
+- 🔭 Currently building an **AI-assisted developer tool**  
+- 🌱 Learning **DevOps & Machine Learning**  
+- 💬 Ask me about **Python, JavaScript, PHP, Java, SQL, C/C++**  
+- 📫 Reach me at: **kanyagojamesnyaga@gmail.com**  
 - ⚡ Fun fact: _I write code the way artists paint masterpieces._
 
 ---
@@ -29,12 +29,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugs4-Bugs&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugs4-Bugs&layout=compact&theme=dracula" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hugs4-Bugs&theme=radical" height="150"/>
 </div>
 
 ---
@@ -55,24 +55,18 @@
 - 🌐 **Personal Portfolio Website** – Responsive with HTML, CSS, JS
 - ⚙️ **Custom CMS** – Made from scratch using PHP and SQL
 
-👉 Explore all projects in my [Repositories](https://github.com/yourusername?tab=repositories)
+👉 Explore more in my [Repositories](https://github.com/Hugs4-Bugs?tab=repositories)
 
 ---
 
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kanyagojamesnyaga@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/kanyago-james">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://instagram.com/yourinstagram">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://youtube.com/yourchannel">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
@@ -81,15 +75,5 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" />
-</p>
-
----
-
-<p align="center"><i>“The function of good software is to make the complex appear simple.” – Grady Booch</i></p>
+  <img src="https://raw.githubusercontent.com/Hugs4-Bugs/Hugs4-Bugs/output/snake.svg" alt="Snake animation" />
+</p
