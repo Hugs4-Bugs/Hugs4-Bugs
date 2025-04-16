@@ -76,4 +76,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hugs4-Bugs/Hugs4-Bugs/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hugs4-Bugs/Hugs4-Bugs/output/snake.svg" alt="Snake animation" />
 </p
