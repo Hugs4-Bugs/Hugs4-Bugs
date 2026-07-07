@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋, I'm K James </h1>
-<h3 align="center">💻 A Passionate Computer Scientist & Full-Stack Developer from Kenya 🇰🇪</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Create.+Innovate.;Solving+Real+World+Problems;With+Clean+Elegant+Code" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 Currently building an **AI-assisted developer tool**
-- 🌱 Learning **DevOps & Machine Learning**
-- 💬 Ask me about **Python, JavaScript, PHP, Java, SQL, C/C++**
-- 📫 Reach me at: **kanyagojamesnyaga@gmail.com**
-- ⚡ Fun fact: _I write code the way artists paint masterpieces._
-
----
-
-### 🧠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,php,sql,react" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=James%20Nyaga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20from%20Kenya&descAlignY=55&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Code.+Create.+Innovate.;Building+AI-powered+tools;Always+learning+something+new" />
+
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🧭 About
+
+I'm a computer scientist from Kenya who likes turning ideas into working software — currently building an AI-assisted developer tool, and leveling up in DevOps and Machine Learning along the way.
+
+- 🔭 **Building:** an AI-assisted developer tool
+- 🌱 **Learning:** DevOps & Machine Learning
+- 💬 **Ask me about:** Python, JavaScript, PHP, Java, SQL, C/C++
+- ⚡ **Fun fact:** I write code the way artists paint masterpieces
+
+<br/>
+
+## 🛠️ Stack
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugs4-Bugs&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugs4-Bugs&layout=compact&theme=dracula" height="150"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hugs4-Bugs&theme=radical" height="150"/>
-</div>
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🖼️ Gallery of Projects
-<!-- TODO: replace these with real screenshots. Easiest way:
-     1. Add screenshots to an `assets/` folder in this repo
-     2. Point the src at:
-        https://raw.githubusercontent.com/Hugs4-Bugs/Hugs4-Bugs/main/assets/project1.png -->
-<p align="center">
-  <img src="https://placehold.co/250x150?text=AirBnB+Clone" width="250" alt="Project 1"/>
-  <img src="https://placehold.co/250x150?text=Portfolio+Site" width="250" alt="Project 2"/>
-  <img src="https://placehold.co/250x150?text=Custom+CMS" width="250" alt="Project 3"/>
-</p>
-
----
-
-### 📂 Notable Projects
-- 🏠 **AirBnB Clone** – Built with Python, OOP, and Flask
-- 🌐 **Personal Portfolio Website** – Responsive with HTML, CSS, JS
-- ⚙️ **Custom CMS** – Made from scratch using PHP and SQL
-
-👉 Explore more in my [Repositories](https://github.com/Hugs4-Bugs?tab=repositories)
-
----
-
-### 🌐 Let's Connect
-<div align="center">
-  <a href="mailto:kanyagojamesnyaga@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanyago-james">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
 </div>
 
----
+<br/>
 
-### 🐍 Snake Contribution Animation
-<p align="center">
-<img src="https://raw.githubusercontent.com/Hugs4-Bugs/Hugs4-Bugs/output/snake.svg" alt="Snake animation" />
-</p>
+## 📊 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hugs4-Bugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugs4-Bugs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Hugs4-Bugs&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hugs4-Bugs&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🏠 **AirBnB Clone** | Built with Python, OOP, and Flask |
+| 🌐 **Personal Portfolio** | Responsive site — HTML, CSS, JS |
+| ⚙️ **Custom CMS** | Built from scratch with PHP & SQL |
+
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugs4-Bugs?tab=repositories)
+
+</div>
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanyagojamesnyaga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanyago-james)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+</div>
