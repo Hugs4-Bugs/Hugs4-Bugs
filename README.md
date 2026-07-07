@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=James%20Nyaga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20from%20Kenya&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mr.%20Root&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20AI-powered%20tools&descAlignY=55&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Code.+Create.+Innovate.;Building+AI-powered+tools;Always+learning+something+new" />
 
@@ -10,7 +10,7 @@
 
 ## 🧭 About
 
-I'm a computer scientist from Kenya who likes turning ideas into working software — currently building an AI-assisted developer tool, and leveling up in DevOps and Machine Learning along the way.
+I'm a computer scientist who likes turning ideas into working software — currently building an AI-assisted developer tool, and leveling up in DevOps and Machine Learning along the way.
 
 - 🔭 **Building:** an AI-assisted developer tool
 - 🌱 **Learning:** DevOps & Machine Learning
@@ -69,7 +69,9 @@ I'm a computer scientist from Kenya who likes turning ideas into working softwar
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugs4-Bugs?tab=repositories)
+<a href="https://github.com/Hugs4-Bugs?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -79,8 +81,12 @@ I'm a computer scientist from Kenya who likes turning ideas into working softwar
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanyagojamesnyaga@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanyago-james)
+<a href="mailto:kanyagojamesnyaga@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-ACTUAL-HANDLE" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
