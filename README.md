@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mr.%20Root&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20AI-powered%20tools&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kanyago%20James&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%22Mr.%20Root%22%20%7C%20Full-stack%20developer%20%26%20AI%20builder&descAlignY=52&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Code.+Create.+Innovate.;Building+AI-powered+tools;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5DCAA5&center=true&vCenter=true&width=460&lines=root%40buildlab%3A~%24+shipping+systems+that+matter_;Code.+Create.+Innovate.;Always+learning+something+new" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🧭 About
 
-I'm a computer scientist who likes turning ideas into working software — currently building an AI-assisted developer tool, and leveling up in DevOps and Machine Learning along the way.
+I'm the kind of developer who reads the source before trusting the docs. Systems fascinate me — not just making them work, but understanding exactly why they work, down to the root.
 
-- 🔭 **Building:** an AI-assisted developer tool
+- 🔭 **Building:** MindMate AI — a hybrid mental wellness app with dual-mode intelligence
 - 🌱 **Learning:** DevOps & Machine Learning
 - 💬 **Ask me about:** Python, JavaScript, PHP, Java, SQL, C/C++
 - ⚡ **Fun fact:** I write code the way artists paint masterpieces
@@ -41,8 +41,8 @@ I'm a computer scientist who likes turning ideas into working software — curre
 ## 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hugs4-Bugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugs4-Bugs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Hugs4-Bugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hugs4-Bugs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
@@ -63,6 +63,7 @@ I'm a computer scientist who likes turning ideas into working software — curre
 
 | Project | Description |
 |---|---|
+| 🧠 **MindMate AI** | Hybrid mental wellness app — Flutter/Dart, Gemini Nano + offline CBT engine |
 | 🏠 **AirBnB Clone** | Built with Python, OOP, and Flask |
 | 🌐 **Personal Portfolio** | Responsive site — HTML, CSS, JS |
 | ⚙️ **Custom CMS** | Built from scratch with PHP & SQL |
