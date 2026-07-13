@@ -28,11 +28,11 @@ Currently a final-year Computer Science student in Kenya, splitting my time betw
 
 ```bash
 root@buildlab:~$ whoami
-> James Kanyago (Nyaga) — "Mr. Root"
+> James Kanyago — "Mr. Root"
 > Full-stack developer · Data & systems thinker · Builder for underserved communities
 ```
 
-- 🔭 **Building:** MindMate AI — a hybrid mental wellness app with dual-mode intelligence
+- 🔭 **Building:** Nexus — a commission-based marketplace platform with M-Pesa & Stripe integration
 - 🌱 **Learning:** DevOps, Machine Learning, and data-driven systems design
 - 💬 **Ask me about:** Python, JavaScript, PHP, Java, SQL, C/C++
 - 🎯 **Focus:** technology that's actually usable by the people who need it most
@@ -110,7 +110,6 @@ root@buildlab:~$ whoami
 
 | Project | Description |
 |---|---|
-| 🧠 **MindMate AI** | Hybrid mental wellness app — Flutter/Dart, on-device intelligence + offline CBT engine |
 | 🛍️ **Nexus Marketplace** | Commission-based marketplace platform — Node.js/Express, M-Pesa & Stripe integration |
 | 🏠 **AirBnB Clone** | Built with Python, OOP, and Flask |
 | 🌐 **Personal Portfolio** | Responsive site — HTML, CSS, JS |
